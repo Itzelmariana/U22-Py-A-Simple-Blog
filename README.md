@@ -4,7 +4,7 @@
 
 ## Description
 
-This projects uses flasks and jinja templating language to render HTML blog. The main goal in creating this app was to put in practice my skills learned in course "100 days of Code in Python".
+This project utilizes Flask and the Jinja templating language to render an HTML blog. The primary objective behind developing this application was to apply the skills I acquired during the "100 Days of Code in Python" course.
 
 ## Table of Contents
 
